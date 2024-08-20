@@ -1,0 +1,21 @@
+{
+  "name": "synthwave-alpha",
+  "displayName": "Synthwave Alpha",
+  "description": "Synthwave inspired theme",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Synthwave Alpha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Synthwave Alpha-color-theme.json"
+      }
+    ]
+  }
+}
