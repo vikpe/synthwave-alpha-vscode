@@ -1,7 +1,7 @@
 {
   "name": "synthwave-alpha",
   "displayName": "Synthwave Alpha",
-  "description": "Synthwave inspired theme for VS Code",
+  "description": "Synthwave inspired theme for Visual Studio Code",
   "version": "0.1.2",
   "license": "MIT",
   "homepage": "https://github.com/vikpe/synthwave-alpha-vscode",
@@ -12,9 +12,6 @@
   "engines": {
     "vscode": "^1.92.0"
   },
-  "categories": [
-    "Themes"
-  ],
   "contributes": {
     "themes": [
       {
@@ -24,10 +21,21 @@
       }
     ]
   },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "synthwave",
+    "dark"
+  ],
   "publisher": "vikpe",
   "pricing": "Free",
   "sponsor": {
     "url": "https://github.com/sponsors/vikpe"
   },
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#241b30",
+    "theme": "dark"
+  }
 }
