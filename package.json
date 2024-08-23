@@ -23,5 +23,9 @@
         "path": "./themes/synthwave-alpha-color-theme.json"
       }
     ]
+  },
+  "pricing": "Free",
+  "sponsor": {
+    "url": "https://github.com/sponsors/vikpe"
   }
 }
