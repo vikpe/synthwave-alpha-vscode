@@ -60,5 +60,3 @@ export class ExportedClass {}
 
 const globalVariable = "chars\n\u11";
 const templateLiteral: `Template ${string | number} type` = `Template ${globalVariable} type`;
-
-#

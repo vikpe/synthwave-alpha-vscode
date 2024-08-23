@@ -13,6 +13,8 @@ function globalFunction({ options = {} }) {
         isValid,
       };
     };
+
+    localFunction();
   }
   
   @defineElement("download-button")
@@ -44,3 +46,5 @@ function globalFunction({ options = {} }) {
   function JsxComponent() {
     return <JsxClientComponent />;
   }
+
+  globalFunction();

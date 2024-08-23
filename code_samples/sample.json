@@ -1,6 +1,4 @@
 {
-    // Line comments are not included in standard but nonetheless allowed.
-    /* As well as block comments. */
     "the only keywords are": [
         true,
         false,
