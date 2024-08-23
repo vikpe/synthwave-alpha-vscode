@@ -1,0 +1,32 @@
+{
+  "name": "synthwave-alpha",
+  "displayName": "Synthwave Alpha",
+  "description": "Synthwave inspired theme for VS Code",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "https://github.com/vikpe/synthwave-alpha-vscode/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikpe/synthwave-alpha-vscode.git"
+  },
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Synthwave Alpha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/synthwave-alpha-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "vikpe",
+  "pricing": "Free",
+  "sponsor": {
+    "url": "https://github.com/sponsors/"
+  }
+}
