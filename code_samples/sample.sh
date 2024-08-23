@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-#Sample comment
+# Sample comment
 let "a=16 << 2";
 b="Sample text";
 

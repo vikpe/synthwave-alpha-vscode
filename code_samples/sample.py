@@ -18,7 +18,7 @@ def f(x):
     nested_func(42)
 
 class Foo:
-    tags: List[str]
+    tags: list[str]
 
     def __init__(self: Foo):
         byte_string: bytes = b'newline:\n also newline:\x0a'

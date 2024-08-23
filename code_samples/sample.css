@@ -1,7 +1,7 @@
 @import "manual.css";
 
 @font-face {
-  font-family: DroidSans;
+  font-family: "DroidSans";
   src: url(DroidSans.ttf);
   unicode-range: U+000-5FF, U+1e00-1fff, U+2000-2300;
 }
