@@ -9,7 +9,7 @@ mod stuff;
 pub enum Flag {
     Good,
     Bad,
-    Ugly
+    Ugly { foo: st}
 }
 
 const QUALITY: Flag = Flag::Good;
