@@ -18,3 +18,5 @@ Other options:
 
 ## Credits
 Created by [vikpe](https://github.com/vikpe), based on the [Synthwave Alpha](https://github.com/vikpe/synthwave-alpha/) color palette.
+
+Heavily inpired by the excellent [SynthWave '84 theme](https://github.com/robb0wen/synthwave-vscode) by [robb0wen](https://github.com/robb0wen)
