@@ -1,5 +1,5 @@
 # Synthwave Alpha
-> Synthwave inspired theme for Visual Studio Code
+> Synthwave inspired dark mode theme for Visual Studio Code
 
 <div align=center>
 
