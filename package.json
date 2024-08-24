@@ -10,7 +10,7 @@
     "url": "https://github.com/vikpe/synthwave-alpha-vscode.git"
   },
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": "^1.43.0"
   },
   "contributes": {
     "themes": [
