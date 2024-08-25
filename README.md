@@ -1,17 +1,14 @@
 # Synthwave Alpha
+> A Synthwave inspired dark mode theme for Visual Studio Code
 
 <div align="center">
-<div style="padding: 12px; background: #241b30">
 
-<img src="https://raw.githubusercontent.com/vikpe/synthwave-alpha/main/.github/assets/synthwave_alpha_logo.png" height=128 />
-
-*A Synthwave inspired dark mode theme for Visual Studio Code*
+<img src="https://raw.githubusercontent.com/vikpe/synthwave-alpha/main/.github/assets/synthwave_alpha_logo.png" />
 
 ![Synthwave Alpha](./screenshots/editor.png)
 
 [**View demo**](https://vscode.dev/editor/theme/vikpe.synthwave-alpha)  -  [**Install**](https://marketplace.visualstudio.com/items?itemName=vikpe.synthwave-alpha)
 
-</div>
 </div>
 
 ## Installation
